@@ -13,4 +13,5 @@ Pour générer un fichier css via sass on n'a la possibilité de le faire via ce
 Pour générer automatiquement des changements sans intervenir une command existe : <br />
 **sass --watch .** Le point signifie que le fichier css se trouve à la racine. <br />
 <img src="http://puu.sh/sqxQG/3ab06ad9d5.png" alt="la command pour automatiser les changements"> <br />
+Lorsqu'une modification est effectué dans notre fichier SCSS, automatiquement sass détecte un changement et donc il ré-écrit pratiquement instantanément le code dans notre fichier css.
 <img src="http://puu.sh/sqxSg/ef676e2eb3.png" alt="Lors d'un changement, sass travail dans l'ombre">
