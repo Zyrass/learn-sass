@@ -5,12 +5,12 @@ Pour savoir si l'installation de ruby à bien été faite, il faut taper dans l'
 **ruby -v** <br />
 <img src="http://puu.sh/sqa5R/9844bca41f.png" alt="le résultat de l'invite de commande pour tester si ruby est installer" />
 
-Pour générer un fichier css via sass on n'a la possibilité de le faire via cette command :
+Pour générer un fichier css via sass on n'a la possibilité de le faire via cette command : <br />
 **sass votre-fichier.scss votre-fichier.css** <br />
 <img src="http://puu.sh/sqxIR/70536ae494.png" alt="ce qu'il faut taper dans l'invite de command"> <br />
 <img src="http://puu.sh/sqxKL/938a5fb60a.png" alt="Le contenu générer">
 
-Pour générer automatiquement des changements sans intervenir une command existe :
+Pour générer automatiquement des changements sans intervenir une command existe : <br />
 **sass --watch .** Le point signifie que le fichier css se trouve à la racine. <br />
 <img src="http://puu.sh/sqxQG/3ab06ad9d5.png" alt="la command pour automatiser les changements"> <br />
 <img src="http://puu.sh/sqxSg/ef676e2eb3.png" alt="Lors d'un changement, sass travail dans l'ombre">
