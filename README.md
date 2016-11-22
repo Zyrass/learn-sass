@@ -8,6 +8,7 @@ Pour savoir si l'installation de ruby à bien été faite, il faut taper dans l'
 Pour générer un fichier css via sass on n'a la possibilité de le faire via cette command : <br />
 **sass votre-fichier.scss votre-fichier.css** <br />
 <img src="http://puu.sh/sqxIR/70536ae494.png" alt="ce qu'il faut taper dans l'invite de command"> <br />
+Dans mon dossier tous les fichiers présent, sont générer via sass hormis le **readme.md**<br />
 <img src="http://puu.sh/sqxKL/938a5fb60a.png" alt="Le contenu générer">
 
 Pour générer automatiquement des changements sans intervenir une command existe : <br />
